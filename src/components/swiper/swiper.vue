@@ -10,10 +10,10 @@
           <right-circle-outlined />
         </div>
       </template>
-      <div><img src="	https://t1.szrtcpa.com/2023/02/20/23a672e7a5d32.jpg" alt=""></div>
+      <!-- <div><img src="	https://t1.szrtcpa.com/2023/02/20/23a672e7a5d32.jpg" alt=""></div>
       <div><img src="	https://t1.szrtcpa.com/2023/01/23/ffa57f8b92316.jpg" alt="">></div>
       <div><img src="https://t1.szrtcpa.com/2023/01/25/1f4e68bee50aa.jpg" alt=""></div>
-      <div><img src="https://t1.szrtcpa.com/2023/02/19/353549718d97b.jpg" alt=""></div>
+      <div><img src="https://t1.szrtcpa.com/2023/02/19/353549718d97b.jpg" alt=""></div> -->
     </a-carousel>
   </template>
   <script lang="ts">
